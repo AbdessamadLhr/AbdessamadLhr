@@ -6,7 +6,7 @@ AI and Data Science Engineering Student | Specializing in Machine Learning, Data
 
 I’m an AI and Data Science Engineering student with a passion for solving real-world problems using machine learning, data analysis, and deep learning techniques. Through my academic journey and internships, I have developed hands-on experience in building machine learning models, automating data processes, and applying AI-driven insights to improve decision-making. I’m continually expanding my knowledge in advanced AI technologies and am excited about collaborating on innovative projects that push the boundaries of artificial intelligence.
 
-* 🌍  I'm based in Île-de-France
+* 🌍  I'm based in Île-de-France.
 * ✉️  You can contact me at [lahrour.abdessamad1@gmail.com](mailto:lahrour.abdessamad1@gmail.com)
 * 🧠  Currently learning Langchain and advanced usage of PyTorch for large language models, while deepening my knowledge in machine learning.
 * 🤝  I'm open to collaborating on Open to collaborating on AI-driven data science projects and machine learning applications.
