@@ -8,7 +8,7 @@ I’m an AI and Data Science Engineering student with a passion for solving real
 
 * 🌍  I'm based in Île-de-France
 * ✉️  You can contact me at [lahrour.abdessamad1@gmail.com](mailto:lahrour.abdessamad1@gmail.com)
-* 🧠  I'm learning Currently learning Langchain and advanced usage of PyTorch for large language models, while deepening my knowledge in machine learning.
+* 🧠  Currently learning Langchain and advanced usage of PyTorch for large language models, while deepening my knowledge in machine learning.
 * 🤝  I'm open to collaborating on Open to collaborating on AI-driven data science projects and machine learning applications.
 * ⚡  Always eager to explore cutting-edge AI technologies and contribute to open-source projects.
 
